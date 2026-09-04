@@ -1,0 +1,9 @@
+{
+  "name": "PromptOS · Bishnu Lamsal AI Prompt Command Center",
+  "short_name": "PromptOS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6657e8",
+  "icons": [{"src":"https://www.bishnulamsal.com.np/favicon.ico","sizes":"any","type":"image/x-icon"}]
+}
